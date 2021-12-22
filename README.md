@@ -330,7 +330,9 @@ Publish the website in the given URL.
 
 ### Home Page:
 
-![output](./images/homepage.jpg)
+![output](home.png)
+![output](product1.png)
+![output](product2.png)
 
 ## Result:
 
