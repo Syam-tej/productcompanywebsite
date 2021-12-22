@@ -333,7 +333,8 @@ Publish the website in the given URL.
 ![output](home.png)
 ![output](product1.png)
 ![output](product2.png)
-
+![output](people.png)
+![output](ContactUs.png)
 ## Result:
 
 Thus a website is designed for the software product company and the HTML,CSS code are validated.
